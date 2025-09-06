@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Card-Payment-Tracking", "Card-Payment-Tracking\Card-Payment-Tracking.dtproj", "{455C05A9-ABF7-45C1-A31F-9622DC39CC4D}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "MultidimensionalProject", "MultidimensionalProject\MultidimensionalProject.dwproj", "{BA2D57F8-F6BD-4827-93B2-8419E9FDAC10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{455C05A9-ABF7-45C1-A31F-9622DC39CC4D}.Development|Default.ActiveCfg = Development
+		{455C05A9-ABF7-45C1-A31F-9622DC39CC4D}.Development|Default.Build.0 = Development
+		{BA2D57F8-F6BD-4827-93B2-8419E9FDAC10}.Development|Default.ActiveCfg = Development
+		{BA2D57F8-F6BD-4827-93B2-8419E9FDAC10}.Development|Default.Build.0 = Development
+		{BA2D57F8-F6BD-4827-93B2-8419E9FDAC10}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B994B1B-1471-4EA3-B69D-738A5D935D34}
+	EndGlobalSection
+EndGlobal
